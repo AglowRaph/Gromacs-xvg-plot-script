@@ -1,10 +1,10 @@
 Place the plot_xvg.py script in the same directory as your .xvg files.
 
 Run the script:
-
+```bash
 python plot_xvg.py
 
-The script will:
+## The script will:
 
 Read all .xvg files in the current directory.
 Extract and plot data for each file.
